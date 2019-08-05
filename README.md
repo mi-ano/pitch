@@ -26,6 +26,17 @@ This project uses major technologies which are :
 - Python3.6
 - flask
 
+
+## Setup/Installation Requirements
+* Fork the data onto your own personal repository.
+* Clone Project to your machine
+* Activate a virtual environment on terminal: `source virtual/bin/activate`
+* Install all the requirements found in requirements file.
+* On your terminal run `chmod a+x start.py`
+* On your terminal run `./start.py`
+* Access the live site using the local host provided
+* Or access the live website by clicking on this url
+
 ## License
  MIT License
 
