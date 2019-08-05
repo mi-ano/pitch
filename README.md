@@ -29,6 +29,9 @@ This project uses major technologies which are :
 - Python3.6
 - flask
 
+## Dependencies
+* pip
+
 
 ## Setup/Installation Requirements
 * Fork the data onto your own personal repository.
