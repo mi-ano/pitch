@@ -1,5 +1,6 @@
 ### Pitch
-### By Ryan Miano
+### Author
+Ryan Miano
 
 
 ### Description
