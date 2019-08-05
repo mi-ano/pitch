@@ -22,7 +22,7 @@ def login():        #login function to render a template file
 
     flash('Invalid username or password !')
 
-    title = "Pitch-Perfect -- Login Form"
+    title = "Pitch -- Login Form"
     return render_template('auth/login.html',login_form = login_form,title = title)
 
 
@@ -41,11 +41,11 @@ def register():
 
         flash("You've been successfully registered!")
 
-        # mail_message("Welcome to Pitch-Perfect","email/welcome_user",user.email,user=user)
+        # mail_message("Welcome to Pitch","email/welcome_user",user.email,user=user)
 
         return redirect(url_for('auth.login'))
         
-    title = "Pitch-Perfect -- New Account"
+    title = "Pitch -- New Account"
     return render_template('auth/register.html',registration_form = form, title = title)
 
 
