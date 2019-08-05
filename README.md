@@ -20,6 +20,9 @@ feedback|	upvote downvote	|give a comment
 - A user can submit a pitch in any category
 - A user can submit to different categories
 
+## Known Bugs
+No Bugsaddded texts
+
 ### Technologies Used
 This project uses major technologies which are :
 - Bootstrap
