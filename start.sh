@@ -1,3 +1,5 @@
+export MAIL_USERNAME ='ryanmiano68@gmail.com'
+export   MAIL_PASSWORD ='32032651'
+export SECRET_KEY = '1234'
 
-  SQLALCHEMY_DATABASE_URL = 'postgresql+psycopg2://ryan:1234@localhost/pitch'
 python manage.py runserver
